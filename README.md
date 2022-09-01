@@ -1,2 +1,1 @@
-My first readme
-# holbertonschool-zero_day
+	This repo deals with shell navigation,Emacs,vi,Git,and Shell basics.
